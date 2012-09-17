@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" 
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="hello">Hello World, AndroidFlowWall!</string>
+    <string name="app_name">AndroidFlowWall</string>
+
+    <!-- 
+    <string name="show_today_total_flow_data">总流量:<xliff:g id="number">%1$s</xliff:g> 今日 <xliff:g id="number">%2$s</xliff:g></string>
+     -->
+     <string name="show_today_total_flow_data">今日 <xliff:g id="number">%1$s</xliff:g></string>
+</resources>
